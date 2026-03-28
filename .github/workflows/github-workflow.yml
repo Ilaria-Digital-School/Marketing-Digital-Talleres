@@ -16,6 +16,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
 
       - name: Auto-mise à jour du workflow
         run: |
@@ -144,9 +146,9 @@ jobs:
           # LICENSE
           with open('LICENSE', 'w', encoding='utf-8') as f:
               f.write(f'Copyright (c) {year} Ilaria Digital School. All rights reserved.\n\n')
-              f.write('Ces ressources sont la propriete exclusive d\'Ilaria Digital School.\n')
-              f.write('Toute reproduction, distribution ou transmission, sous quelque forme\n')
-              f.write('que ce soit, est strictement interdite sans autorisation ecrite prealable.\n\n')
+              f.write('Estos recursos son propiedad exclusiva de Ilaria Digital School.\n')
+              f.write('Cualquier reproduccion, distribucion o transmision, bajo cualquier forma\n')
+              f.write('que sea, esta estrictamente prohibida sin autorizacion escrita previa.\n\n')
               f.write('Contact : rss@ilariaacademy.net\n')
           PYEOF
 
@@ -155,5 +157,5 @@ jobs:
           git config user.name "Ilaria Digital School"
           git config user.email "rss@ilariaacademy.net"
           git add -A
-          git diff --cached --quiet || git commit -m "sync: mise à jour depuis RSS"
+          git diff --cached --quiet || git commit -m "sync: actualizacion desde RSS"
           git push
