@@ -64,6 +64,7 @@ jobs:
                       f.write(f'- [{i:02d}. {t}]({i:02d}-{s}/)\n')
 
           # Dossiers par atelier directement à la racine
+          valid_folders = set()
           idx = 1
           for item in channel.findall('item'):
               ct = item.find('ilaria:chapterType', NS)
@@ -74,6 +75,7 @@ jobs:
               desc  = item.findtext('description', '').strip()
               slug  = re.sub(r'[^a-z0-9]+', '-', title.lower()).strip('-') or 'chapitre'
               folder  = f'{idx:02d}-{slug}'
+              valid_folders.add(folder)
               starter = f'{folder}/starter'
               os.makedirs(starter, exist_ok=True)
 
@@ -98,6 +100,14 @@ jobs:
                       with open(stub_path, 'w', encoding='utf-8') as f:
                           f.write(header)
               idx += 1
+
+          # Nettoyage des dossiers obsolètes
+          import shutil
+          for entry in os.listdir('.'):
+              if os.path.isdir(entry) and re.match(r'^\d{2}-', entry):
+                  if entry not in valid_folders:
+                      shutil.rmtree(entry)
+                      print(f'Supprimé: {entry}')
 
           # _config.yml pour GitHub Pages (thème Slate)
           with open('_config.yml', 'w', encoding='utf-8') as f:
