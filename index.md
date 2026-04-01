@@ -10,3 +10,7 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 
 [Ver el taller completo](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/)
 
+## Talleres
+
+01. [Taller guiado: observación de campañas digitales](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/3beb0d2d-df0f-4107-9943-6071f30ef09f/b946bdbc-4317-41c9-b693-9c091d655925/taller-guiado-observacin-de-campaas-digitales)
+
