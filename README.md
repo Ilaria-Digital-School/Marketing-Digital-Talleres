@@ -9,3 +9,4 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [01. Taller: observación de campañas digitales](01-taller-observaci-n-de-campa-as-digitales/)
 - [02. Taller: combinación de objetivos y canales de marketing](02-taller-combinaci-n-de-objetivos-y-canales-de-marketing/)
 - [03. Taller: dibujar un embudo sencillo](03-taller-dibujar-un-embudo-sencillo/)
+- [04. Taller: creación de una dirección de Gmail dedicada](04-taller-creaci-n-de-una-direcci-n-de-gmail-dedicada/)
