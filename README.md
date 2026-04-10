@@ -11,3 +11,4 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [03. Taller: dibujar un embudo sencillo](03-taller-dibujar-un-embudo-sencillo/)
 - [04. Taller: creación de una dirección de Gmail dedicada](04-taller-creaci-n-de-una-direcci-n-de-gmail-dedicada/)
 - [05. Taller: cómo organizar tu Drive para el proyecto](05-taller-c-mo-organizar-tu-drive-para-el-proyecto/)
+- [06. Taller: instalación de un gestor de contraseñas](06-taller-instalaci-n-de-un-gestor-de-contrase-as/)
