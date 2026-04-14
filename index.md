@@ -18,4 +18,6 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 04. [Taller: creación de una dirección de Gmail dedicada](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/3beb0d2d-df0f-4107-9943-6071f30ef09f/3cc1ef4a-8376-4441-b3a7-e36bae552e56/taller-creacin-de-una-direccin-de-gmail-dedicada)
 05. [Taller: cómo organizar tu Drive para el proyecto](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/3beb0d2d-df0f-4107-9943-6071f30ef09f/36511850-8e80-4108-b1d2-037043fc859e/taller-cmo-organizar-tu-drive-para-el-proyecto)
 06. [Taller: instalación de un gestor de contraseñas](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/3beb0d2d-df0f-4107-9943-6071f30ef09f/a8fd8459-55ea-4f82-b12b-013739567cb4/taller-instalacin-de-un-gestor-de-contraseas)
+07. [Taller: crea un tablero de «Campaña digital» de Trello](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/3beb0d2d-df0f-4107-9943-6071f30ef09f/531c4046-4f2b-4f18-935d-5645284796b2/taller-crea-un-tablero-de-campaa-digital-de-trello)
+08. [Taller de : personalización de etiquetas y fechas límite](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/3beb0d2d-df0f-4107-9943-6071f30ef09f/beb0045e-d5bc-49eb-b51b-9dd773e18369/taller-de-personalizacin-de-etiquetas-y-fechas-lmite)
 

@@ -12,3 +12,5 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [04. Taller: creación de una dirección de Gmail dedicada](04-taller-creaci-n-de-una-direcci-n-de-gmail-dedicada/)
 - [05. Taller: cómo organizar tu Drive para el proyecto](05-taller-c-mo-organizar-tu-drive-para-el-proyecto/)
 - [06. Taller: instalación de un gestor de contraseñas](06-taller-instalaci-n-de-un-gestor-de-contrase-as/)
+- [07. Taller: crea un tablero de «Campaña digital» de Trello](07-taller-crea-un-tablero-de-campa-a-digital-de-trello/)
+- [08. Taller de : personalización de etiquetas y fechas límite](08-taller-de-personalizaci-n-de-etiquetas-y-fechas-l-mite/)
