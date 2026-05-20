@@ -1,0 +1,1 @@
+// Taller: Cómo vincular un objetivo SMART con un KPI simple
