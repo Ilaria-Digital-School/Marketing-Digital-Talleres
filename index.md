@@ -38,4 +38,5 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 24. [Taller: Clasificación de los KPI por familia](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/11714d2b-bf99-4c6a-b4cc-b89dc51ee7a9/cc896046-8d6b-4dd2-bb98-d32bb2a44c40/taller-clasificacin-de-los-kpi-por-familia)
 25. [Taller de : Reescribir un plan de acción con objetivos y KPI SMART](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/11714d2b-bf99-4c6a-b4cc-b89dc51ee7a9/faf035d0-b0a3-4af5-aad6-348e0b437d02/taller-de-reescribir-un-plan-de-accin-con-objetivos-y-kpi-smart)
 26. [Taller: Selección de los KPI para una campaña de correo electrónico](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/11714d2b-bf99-4c6a-b4cc-b89dc51ee7a9/e78c211e-558d-442d-8641-aa28ead0fd3c/taller-seleccin-de-los-kpi-para-una-campaa-de-correo-electrnico)
+27. [Taller: Asignación de KPI al embudo AARRR](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/11714d2b-bf99-4c6a-b4cc-b89dc51ee7a9/f981cc6a-bac9-4239-8eb7-bdb0d076a9f9/taller-asignacin-de-kpi-al-embudo-aarrr)
 

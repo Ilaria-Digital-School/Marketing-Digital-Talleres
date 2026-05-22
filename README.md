@@ -32,3 +32,4 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [24. Taller: Clasificación de los KPI por familia](24-taller-clasificaci-n-de-los-kpi-por-familia/)
 - [25. Taller de : Reescribir un plan de acción con objetivos y KPI SMART](25-taller-de-reescribir-un-plan-de-acci-n-con-objetivos-y-kpi-smart/)
 - [26. Taller: Selección de los KPI para una campaña de correo electrónico](26-taller-selecci-n-de-los-kpi-para-una-campa-a-de-correo-electr-nico/)
+- [27. Taller: Asignación de KPI al embudo AARRR](27-taller-asignaci-n-de-kpi-al-embudo-aarrr/)
