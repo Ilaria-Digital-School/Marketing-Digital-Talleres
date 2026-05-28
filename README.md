@@ -34,3 +34,4 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [26. Taller: Selección de los KPI para una campaña de correo electrónico](26-taller-selecci-n-de-los-kpi-para-una-campa-a-de-correo-electr-nico/)
 - [27. Taller: Asignación de KPI al embudo AARRR](27-taller-asignaci-n-de-kpi-al-embudo-aarrr/)
 - [28. Taller: Cálculo de la línea base a partir de datos ficticios](28-taller-c-lculo-de-la-l-nea-base-a-partir-de-datos-ficticios/)
+- [29. Taller sobre : Identificación de los principales indicadores para un objetivo determinado](29-taller-sobre-identificaci-n-de-los-principales-indicadores-para-un-objetivo-determinado/)
