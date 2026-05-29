@@ -35,3 +35,4 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [27. Taller: Asignación de KPI al embudo AARRR](27-taller-asignaci-n-de-kpi-al-embudo-aarrr/)
 - [28. Taller: Cálculo de la línea base a partir de datos ficticios](28-taller-c-lculo-de-la-l-nea-base-a-partir-de-datos-ficticios/)
 - [29. Taller sobre : Identificación de los principales indicadores para un objetivo determinado](29-taller-sobre-identificaci-n-de-los-principales-indicadores-para-un-objetivo-determinado/)
+- [30. Miniproyecto: crear la matriz de objetivos y KPI SMART para un sitio de comercio electrónico](30-miniproyecto-crear-la-matriz-de-objetivos-y-kpi-smart-para-un-sitio-de-comercio-electr-nico/)
