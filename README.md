@@ -38,3 +38,4 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [30. Miniproyecto: crear la matriz de objetivos y KPI SMART para un sitio de comercio electrónico](30-miniproyecto-crear-la-matriz-de-objetivos-y-kpi-smart-para-un-sitio-de-comercio-electr-nico/)
 - [31. Taller: Cómo elegir la imagen adecuada para cada KPI](31-taller-c-mo-elegir-la-imagen-adecuada-para-cada-kpi/)
 - [32. Taller de : plan de monitoreo semanal o mensual](32-taller-de-plan-de-monitoreo-semanal-o-mensual/)
+- [33. Taller: Cómo convertir un OKR en objetivos SMART + KPI](33-taller-c-mo-convertir-un-okr-en-objetivos-smart-kpi/)
