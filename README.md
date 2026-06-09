@@ -39,3 +39,4 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [31. Taller: Cómo elegir la imagen adecuada para cada KPI](31-taller-c-mo-elegir-la-imagen-adecuada-para-cada-kpi/)
 - [32. Taller de : plan de monitoreo semanal o mensual](32-taller-de-plan-de-monitoreo-semanal-o-mensual/)
 - [33. Taller: Cómo convertir un OKR en objetivos SMART + KPI](33-taller-c-mo-convertir-un-okr-en-objetivos-smart-kpi/)
+- [34. Taller de : Auditoría de los objetivos SMART para un compañero](34-taller-de-auditor-a-de-los-objetivos-smart-para-un-compa-ero/)

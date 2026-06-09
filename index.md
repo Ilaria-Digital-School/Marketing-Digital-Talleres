@@ -45,4 +45,5 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 31. [Taller: Cómo elegir la imagen adecuada para cada KPI](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/11714d2b-bf99-4c6a-b4cc-b89dc51ee7a9/fe373e55-b0ff-4cfd-a999-d51290e723eb/taller-como-elegir-la-imagen-adecuada-para-cada-kpi)
 32. [Taller de : plan de monitoreo semanal o mensual](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/11714d2b-bf99-4c6a-b4cc-b89dc51ee7a9/b937529d-765a-4f58-bad8-c682f59199ce/taller-de-plan-de-monitoreo-semanal-o-mensual)
 33. [Taller: Cómo convertir un OKR en objetivos SMART + KPI](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/11714d2b-bf99-4c6a-b4cc-b89dc51ee7a9/ed00a1cc-cefb-42a3-8b48-be99463949de/taller-como-convertir-un-okr-en-objetivos-smart-kpi)
+34. [Taller de : Auditoría de los objetivos SMART para un compañero](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/11714d2b-bf99-4c6a-b4cc-b89dc51ee7a9/c0ad644f-793e-4664-8725-6d5c36768f32/taller-de-auditoria-de-los-objetivos-smart-para-un-companero)
 
