@@ -1,0 +1,2 @@
+<?php
+// Miniproyecto final: plan de medición completo para una startup de SaaS
