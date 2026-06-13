@@ -42,3 +42,4 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [34. Taller de : Auditoría de los objetivos SMART para un compañero](34-taller-de-auditor-a-de-los-objetivos-smart-para-un-compa-ero/)
 - [35. Miniproyecto final: plan de medición completo para una startup de SaaS](35-miniproyecto-final-plan-de-medici-n-completo-para-una-startup-de-saas/)
 - [36. Taller personal: Formalización de sus propios objetivos y KPI SMART](36-taller-personal-formalizaci-n-de-sus-propios-objetivos-y-kpi-smart/)
+- [37. Taller: identificar segmentos simples (caso de comercio electrónico)](37-taller-identificar-segmentos-simples-caso-de-comercio-electr-nico/)

@@ -1,0 +1,1 @@
+// Taller: identificar segmentos simples (caso de comercio electrónico)
