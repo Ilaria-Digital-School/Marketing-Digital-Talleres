@@ -1,0 +1,2 @@
+<?php
+// Taller: redacción de un formulario de persona básico

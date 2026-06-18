@@ -44,3 +44,4 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [36. Taller personal: Formalización de sus propios objetivos y KPI SMART](36-taller-personal-formalizaci-n-de-sus-propios-objetivos-y-kpi-smart/)
 - [37. Taller: identificar segmentos simples (caso de comercio electrónico)](37-taller-identificar-segmentos-simples-caso-de-comercio-electr-nico/)
 - [38. Taller: extraer ideas para una persona](38-taller-extraer-ideas-para-una-persona/)
+- [39. Taller: redacción de un formulario de persona básico](39-taller-redacci-n-de-un-formulario-de-persona-b-sico/)
