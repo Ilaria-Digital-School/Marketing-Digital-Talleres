@@ -45,3 +45,4 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [37. Taller: identificar segmentos simples (caso de comercio electrónico)](37-taller-identificar-segmentos-simples-caso-de-comercio-electr-nico/)
 - [38. Taller: extraer ideas para una persona](38-taller-extraer-ideas-para-una-persona/)
 - [39. Taller: redacción de un formulario de persona básico](39-taller-redacci-n-de-un-formulario-de-persona-b-sico/)
+- [40. Adaptar la persona a otro sector](40-adaptar-la-persona-a-otro-sector/)

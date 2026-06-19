@@ -51,4 +51,5 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 37. [Taller: identificar segmentos simples (caso de comercio electrónico)](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/f80cba8c-d5f2-4112-98e7-6469ba9293e7/956794d0-da33-44db-bf67-d757b1c49f38/taller-identificar-segmentos-simples-caso-de-comercio-electronico)
 38. [Taller: extraer ideas para una persona](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/f80cba8c-d5f2-4112-98e7-6469ba9293e7/d0f5fb1c-be82-4ab7-8320-9663f85b64c2/taller-extraer-ideas-para-una-persona)
 39. [Taller: redacción de un formulario de persona básico](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/f80cba8c-d5f2-4112-98e7-6469ba9293e7/f68807af-863e-479f-8e67-4a1d68915364/taller-redaccion-de-un-formulario-de-persona-basico)
+40. [Adaptar la persona a otro sector](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/f80cba8c-d5f2-4112-98e7-6469ba9293e7/fc5324ea-265d-4b2c-ae71-2d05453fee61/adaptar-la-persona-a-otro-sector)
 
