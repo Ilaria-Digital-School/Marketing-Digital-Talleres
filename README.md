@@ -47,3 +47,4 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [39. Taller: redacción de un formulario de persona básico](39-taller-redacci-n-de-un-formulario-de-persona-b-sico/)
 - [40. Adaptar la persona a otro sector](40-adaptar-la-persona-a-otro-sector/)
 - [41. Taller: combinación de segmento y persona (minicase)](41-taller-combinaci-n-de-segmento-y-persona-minicase/)
+- [42. Sprint 15': crea una persona rápida](42-sprint-15-crea-una-persona-r-pida/)
