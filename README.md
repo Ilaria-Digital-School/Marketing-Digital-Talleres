@@ -49,3 +49,4 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [41. Taller: combinación de segmento y persona (minicase)](41-taller-combinaci-n-de-segmento-y-persona-minicase/)
 - [42. Sprint 15': crea una persona rápida](42-sprint-15-crea-una-persona-r-pida/)
 - [43. Simulación de entrevista de usuario grabada](43-simulaci-n-de-entrevista-de-usuario-grabada/)
+- [44. Kit de personalidad completo para un producto ficticio](44-kit-de-personalidad-completo-para-un-producto-ficticio/)
