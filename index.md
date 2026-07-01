@@ -56,4 +56,5 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 42. [Sprint 15': crea una persona rápida](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/f80cba8c-d5f2-4112-98e7-6469ba9293e7/fc71276d-a13e-4447-aeb0-ceda9d41c829/sprint-15-crea-una-persona-rapida)
 43. [Simulación de entrevista de usuario grabada](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/f80cba8c-d5f2-4112-98e7-6469ba9293e7/1216dae9-5fdb-4301-ad0b-160e9b6268bc/simulacion-de-entrevista-de-usuario-grabada)
 44. [Kit de personalidad completo para un producto ficticio](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/f80cba8c-d5f2-4112-98e7-6469ba9293e7/d62bfaa5-6297-4690-8d18-467ad89aed31/kit-de-personalidad-completo-para-un-producto-ficticio)
+45. [Taller: mapeo de un camino básico](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/f80cba8c-d5f2-4112-98e7-6469ba9293e7/77479b86-1e29-4e39-9d61-808ef974887d/taller-mapeo-de-un-camino-basico)
 
