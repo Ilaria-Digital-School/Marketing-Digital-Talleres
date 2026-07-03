@@ -51,3 +51,4 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [43. Simulación de entrevista de usuario grabada](43-simulaci-n-de-entrevista-de-usuario-grabada/)
 - [44. Kit de personalidad completo para un producto ficticio](44-kit-de-personalidad-completo-para-un-producto-ficticio/)
 - [45. Taller: mapeo de un camino básico](45-taller-mapeo-de-un-camino-b-sico/)
+- [46. Recorrido del cliente desde otro sector](46-recorrido-del-cliente-desde-otro-sector/)
