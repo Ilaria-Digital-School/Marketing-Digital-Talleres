@@ -52,3 +52,4 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [44. Kit de personalidad completo para un producto ficticio](44-kit-de-personalidad-completo-para-un-producto-ficticio/)
 - [45. Taller: mapeo de un camino básico](45-taller-mapeo-de-un-camino-b-sico/)
 - [46. Recorrido del cliente desde otro sector](46-recorrido-del-cliente-desde-otro-sector/)
+- [47. Taller: enriquecer un curso con datos de comportamiento](47-taller-enriquecer-un-curso-con-datos-de-comportamiento/)
