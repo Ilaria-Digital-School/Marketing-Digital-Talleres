@@ -53,3 +53,4 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [45. Taller: mapeo de un camino básico](45-taller-mapeo-de-un-camino-b-sico/)
 - [46. Recorrido del cliente desde otro sector](46-recorrido-del-cliente-desde-otro-sector/)
 - [47. Taller: enriquecer un curso con datos de comportamiento](47-taller-enriquecer-un-curso-con-datos-de-comportamiento/)
+- [48. Taller: sumando emociones y expectativas al CJM](48-taller-sumando-emociones-y-expectativas-al-cjm/)

@@ -59,4 +59,5 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 45. [Taller: mapeo de un camino básico](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/f80cba8c-d5f2-4112-98e7-6469ba9293e7/77479b86-1e29-4e39-9d61-808ef974887d/taller-mapeo-de-un-camino-basico)
 46. [Recorrido del cliente desde otro sector](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/f80cba8c-d5f2-4112-98e7-6469ba9293e7/c77ba05f-3e34-4d5b-b1f0-3c2d11038c0b/recorrido-del-cliente-desde-otro-sector)
 47. [Taller: enriquecer un curso con datos de comportamiento](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/f80cba8c-d5f2-4112-98e7-6469ba9293e7/94742ad2-065c-46df-905c-8b4a6f4c30ad/taller-enriquecer-un-curso-con-datos-de-comportamiento)
+48. [Taller: sumando emociones y expectativas al CJM](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/f80cba8c-d5f2-4112-98e7-6469ba9293e7/c75f319e-3489-48f5-9664-e67facba6322/taller-sumando-emociones-y-expectativas-al-cjm)
 
