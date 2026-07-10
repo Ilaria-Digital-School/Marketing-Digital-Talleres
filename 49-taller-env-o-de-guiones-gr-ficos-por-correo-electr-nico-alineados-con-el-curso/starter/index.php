@@ -1,0 +1,2 @@
+<?php
+// Taller: envío de guiones gráficos por correo electrónico alineados con el curso
