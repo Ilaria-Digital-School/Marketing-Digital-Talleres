@@ -55,3 +55,4 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [47. Taller: enriquecer un curso con datos de comportamiento](47-taller-enriquecer-un-curso-con-datos-de-comportamiento/)
 - [48. Taller: sumando emociones y expectativas al CJM](48-taller-sumando-emociones-y-expectativas-al-cjm/)
 - [49. Taller: envío de guiones gráficos por correo electrónico alineados con el curso](49-taller-env-o-de-guiones-gr-ficos-por-correo-electr-nico-alineados-con-el-curso/)
+- [50. Taller: definición de indicadores para un CJM existente](50-taller-definici-n-de-indicadores-para-un-cjm-existente/)
