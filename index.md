@@ -62,4 +62,5 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 48. [Taller: sumando emociones y expectativas al CJM](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/f80cba8c-d5f2-4112-98e7-6469ba9293e7/c75f319e-3489-48f5-9664-e67facba6322/taller-sumando-emociones-y-expectativas-al-cjm)
 49. [Taller: envío de guiones gráficos por correo electrónico alineados con el curso](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/f80cba8c-d5f2-4112-98e7-6469ba9293e7/6e8b075f-cc31-4f53-94c0-d1826e477908/taller-envio-de-guiones-graficos-por-correo-electronico-alineados-con-el-curso)
 50. [Taller: definición de indicadores para un CJM existente](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/f80cba8c-d5f2-4112-98e7-6469ba9293e7/6910ac40-ced5-4dfb-a033-a8bd4d059c54/taller-definicion-de-indicadores-para-un-cjm-existente)
+51. [Hilo del proyecto (parte 1): CM completo para 2 personas](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/f80cba8c-d5f2-4112-98e7-6469ba9293e7/073f1e8e-947f-4957-bb06-937d451501fd/hilo-del-proyecto-parte-1-cm-completo-para-2-personas)
 
