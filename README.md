@@ -58,3 +58,4 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [50. Taller: definición de indicadores para un CJM existente](50-taller-definici-n-de-indicadores-para-un-cjm-existente/)
 - [51. Hilo del proyecto (parte 1): CM completo para 2 personas](51-hilo-del-proyecto-parte-1-cm-completo-para-2-personas/)
 - [52. Sesión de comentarios entre pares sobre el CJM](52-sesi-n-de-comentarios-entre-pares-sobre-el-cjm/)
+- [53. Hilo del proyecto (parte 2): ajustes y presentación final](53-hilo-del-proyecto-parte-2-ajustes-y-presentaci-n-final/)
