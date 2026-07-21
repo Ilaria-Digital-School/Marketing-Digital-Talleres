@@ -60,3 +60,4 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [52. Sesión de comentarios entre pares sobre el CJM](52-sesi-n-de-comentarios-entre-pares-sobre-el-cjm/)
 - [53. Hilo del proyecto (parte 2): ajustes y presentación final](53-hilo-del-proyecto-parte-2-ajustes-y-presentaci-n-final/)
 - [54. Identifica ejemplos de marketing de contenidos a tu alrededor](54-identifica-ejemplos-de-marketing-de-contenidos-a-tu-alrededor/)
+- [55. Análisis de un caso de campaña de contenido simple](55-an-lisis-de-un-caso-de-campa-a-de-contenido-simple/)

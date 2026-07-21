@@ -66,4 +66,5 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 52. [Sesión de comentarios entre pares sobre el CJM](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/f80cba8c-d5f2-4112-98e7-6469ba9293e7/c05c3479-fffb-4967-87d8-60209b580074/sesion-de-comentarios-entre-pares-sobre-el-cjm)
 53. [Hilo del proyecto (parte 2): ajustes y presentación final](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/f80cba8c-d5f2-4112-98e7-6469ba9293e7/20e1cba0-971c-45f1-b231-c6e58c4c30b5/hilo-del-proyecto-parte-2-ajustes-y-presentacion-final)
 54. [Identifica ejemplos de marketing de contenidos a tu alrededor](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/17020e84-9c8d-482f-b6b9-aea0cd907f06/2d63b88d-93f4-4061-b665-f5b7a80c1696/identifica-ejemplos-de-marketing-de-contenidos-a-tu-alrededor)
+55. [Análisis de un caso de campaña de contenido simple](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/17020e84-9c8d-482f-b6b9-aea0cd907f06/27b17d10-dd99-496f-bf7b-58a77752335e/analisis-de-un-caso-de-campana-de-contenido-simple)
 
