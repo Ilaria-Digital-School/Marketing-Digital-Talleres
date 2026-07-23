@@ -67,4 +67,5 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 53. [Hilo del proyecto (parte 2): ajustes y presentación final](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/f80cba8c-d5f2-4112-98e7-6469ba9293e7/20e1cba0-971c-45f1-b231-c6e58c4c30b5/hilo-del-proyecto-parte-2-ajustes-y-presentacion-final)
 54. [Identifica ejemplos de marketing de contenidos a tu alrededor](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/17020e84-9c8d-482f-b6b9-aea0cd907f06/2d63b88d-93f4-4061-b665-f5b7a80c1696/identifica-ejemplos-de-marketing-de-contenidos-a-tu-alrededor)
 55. [Análisis de un caso de campaña de contenido simple](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/17020e84-9c8d-482f-b6b9-aea0cd907f06/27b17d10-dd99-496f-bf7b-58a77752335e/analisis-de-un-caso-de-campana-de-contenido-simple)
+56. [Ejercicio : formulación de un objetivo de contenido SMART](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/17020e84-9c8d-482f-b6b9-aea0cd907f06/8e50c854-910c-45bc-9d99-005846251007/ejercicio-formulacion-de-un-objetivo-de-contenido-smart)
 
