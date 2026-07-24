@@ -1,0 +1,2 @@
+<?php
+// Reformular los objetivos para diferentes industrias

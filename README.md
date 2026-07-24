@@ -62,3 +62,4 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [54. Identifica ejemplos de marketing de contenidos a tu alrededor](54-identifica-ejemplos-de-marketing-de-contenidos-a-tu-alrededor/)
 - [55. Análisis de un caso de campaña de contenido simple](55-an-lisis-de-un-caso-de-campa-a-de-contenido-simple/)
 - [56. Ejercicio : formulación de un objetivo de contenido SMART](56-ejercicio-formulaci-n-de-un-objetivo-de-contenido-smart/)
+- [57. Reformular los objetivos para diferentes industrias](57-reformular-los-objetivos-para-diferentes-industrias/)
