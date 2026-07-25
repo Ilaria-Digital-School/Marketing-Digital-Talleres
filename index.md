@@ -69,4 +69,5 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 55. [Análisis de un caso de campaña de contenido simple](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/17020e84-9c8d-482f-b6b9-aea0cd907f06/27b17d10-dd99-496f-bf7b-58a77752335e/analisis-de-un-caso-de-campana-de-contenido-simple)
 56. [Ejercicio : formulación de un objetivo de contenido SMART](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/17020e84-9c8d-482f-b6b9-aea0cd907f06/8e50c854-910c-45bc-9d99-005846251007/ejercicio-formulacion-de-un-objetivo-de-contenido-smart)
 57. [Reformular los objetivos para diferentes industrias](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/17020e84-9c8d-482f-b6b9-aea0cd907f06/64447475-098c-4bca-9f0b-0a37f85cce75/reformular-los-objetivos-para-diferentes-industrias)
+58. [Lluvia de ideas : encontrar ideas de contenido valiosas](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/17020e84-9c8d-482f-b6b9-aea0cd907f06/0c6a9c30-d623-4557-bc52-3a6edcc0d8fc/lluvia-de-ideas-encontrar-ideas-de-contenido-valiosas)
 
