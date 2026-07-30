@@ -71,4 +71,5 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 57. [Reformular los objetivos para diferentes industrias](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/17020e84-9c8d-482f-b6b9-aea0cd907f06/64447475-098c-4bca-9f0b-0a37f85cce75/reformular-los-objetivos-para-diferentes-industrias)
 58. [Lluvia de ideas : encontrar ideas de contenido valiosas](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/17020e84-9c8d-482f-b6b9-aea0cd907f06/0c6a9c30-d623-4557-bc52-3a6edcc0d8fc/lluvia-de-ideas-encontrar-ideas-de-contenido-valiosas)
 59. [Plantilla : crea una persona básica](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/17020e84-9c8d-482f-b6b9-aea0cd907f06/92f7a99d-9f41-4c69-9747-942e63e216a8/plantilla-crea-una-persona-basica)
+60. [Asocie los tipos de contenido a las etapas del viaje](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/17020e84-9c8d-482f-b6b9-aea0cd907f06/16564402-44b7-4448-b205-076d57de4c0f/asocie-los-tipos-de-contenido-a-las-etapas-del-viaje)
 
