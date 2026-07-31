@@ -66,3 +66,4 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [58. Lluvia de ideas : encontrar ideas de contenido valiosas](58-lluvia-de-ideas-encontrar-ideas-de-contenido-valiosas/)
 - [59. Plantilla : crea una persona básica](59-plantilla-crea-una-persona-b-sica/)
 - [60. Asocie los tipos de contenido a las etapas del viaje](60-asocie-los-tipos-de-contenido-a-las-etapas-del-viaje/)
+- [61. Adaptar el contenido existente a una nueva persona](61-adaptar-el-contenido-existente-a-una-nueva-persona/)
