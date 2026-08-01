@@ -73,4 +73,5 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 59. [Plantilla : crea una persona básica](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/17020e84-9c8d-482f-b6b9-aea0cd907f06/92f7a99d-9f41-4c69-9747-942e63e216a8/plantilla-crea-una-persona-basica)
 60. [Asocie los tipos de contenido a las etapas del viaje](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/17020e84-9c8d-482f-b6b9-aea0cd907f06/16564402-44b7-4448-b205-076d57de4c0f/asocie-los-tipos-de-contenido-a-las-etapas-del-viaje)
 61. [Adaptar el contenido existente a una nueva persona](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/17020e84-9c8d-482f-b6b9-aea0cd907f06/9611b9c0-993b-441c-b2d4-f398700a2fed/adaptar-el-contenido-existente-a-una-nueva-persona)
+62. [Mini-caso: diagnóstico de una estrategia de contenido para principiantes](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/17020e84-9c8d-482f-b6b9-aea0cd907f06/1cb6c89e-fadb-407f-a784-7644606aaa17/mini-caso-diagnostico-de-una-estrategia-de-contenido-para-principiantes)
 

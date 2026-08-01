@@ -67,3 +67,4 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [59. Plantilla : crea una persona básica](59-plantilla-crea-una-persona-b-sica/)
 - [60. Asocie los tipos de contenido a las etapas del viaje](60-asocie-los-tipos-de-contenido-a-las-etapas-del-viaje/)
 - [61. Adaptar el contenido existente a una nueva persona](61-adaptar-el-contenido-existente-a-una-nueva-persona/)
+- [62. Mini-caso: diagnóstico de una estrategia de contenido para principiantes](62-mini-caso-diagn-stico-de-una-estrategia-de-contenido-para-principiantes/)
