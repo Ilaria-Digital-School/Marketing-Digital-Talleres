@@ -68,3 +68,4 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [60. Asocie los tipos de contenido a las etapas del viaje](60-asocie-los-tipos-de-contenido-a-las-etapas-del-viaje/)
 - [61. Adaptar el contenido existente a una nueva persona](61-adaptar-el-contenido-existente-a-una-nueva-persona/)
 - [62. Mini-caso: diagnóstico de una estrategia de contenido para principiantes](62-mini-caso-diagn-stico-de-una-estrategia-de-contenido-para-principiantes/)
+- [63. Sprint 1: definir objetivos y personas para un proyecto personal](63-sprint-1-definir-objetivos-y-personas-para-un-proyecto-personal/)
