@@ -76,4 +76,5 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 62. [Mini-caso: diagnóstico de una estrategia de contenido para principiantes](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/17020e84-9c8d-482f-b6b9-aea0cd907f06/1cb6c89e-fadb-407f-a784-7644606aaa17/mini-caso-diagnostico-de-una-estrategia-de-contenido-para-principiantes)
 63. [Sprint 1: definir objetivos y personas para un proyecto personal](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/17020e84-9c8d-482f-b6b9-aea0cd907f06/b13feabd-8383-4c0d-9c75-a2429552fe31/sprint-1-definir-objetivos-y-personas-para-un-proyecto-personal)
 64. [Desentrañando una historia de marca exitosa](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/17020e84-9c8d-482f-b6b9-aea0cd907f06/994268c6-364a-4869-aa3d-ed02cf92eed2/desentranando-una-historia-de-marca-exitosa)
+65. [Taller: escribir un microrrelato en 3 actos](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/17020e84-9c8d-482f-b6b9-aea0cd907f06/eaa941f6-2711-483b-970c-37f690f0161c/taller-escribir-un-microrrelato-en-3-actos)
 

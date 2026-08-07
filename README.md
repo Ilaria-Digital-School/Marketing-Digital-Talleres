@@ -70,3 +70,4 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [62. Mini-caso: diagnóstico de una estrategia de contenido para principiantes](62-mini-caso-diagn-stico-de-una-estrategia-de-contenido-para-principiantes/)
 - [63. Sprint 1: definir objetivos y personas para un proyecto personal](63-sprint-1-definir-objetivos-y-personas-para-un-proyecto-personal/)
 - [64. Desentrañando una historia de marca exitosa](64-desentra-ando-una-historia-de-marca-exitosa/)
+- [65. Taller: escribir un microrrelato en 3 actos](65-taller-escribir-un-microrrelato-en-3-actos/)
