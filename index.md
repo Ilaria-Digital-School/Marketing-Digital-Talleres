@@ -77,4 +77,5 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 63. [Sprint 1: definir objetivos y personas para un proyecto personal](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/17020e84-9c8d-482f-b6b9-aea0cd907f06/b13feabd-8383-4c0d-9c75-a2429552fe31/sprint-1-definir-objetivos-y-personas-para-un-proyecto-personal)
 64. [Desentrañando una historia de marca exitosa](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/17020e84-9c8d-482f-b6b9-aea0cd907f06/994268c6-364a-4869-aa3d-ed02cf92eed2/desentranando-una-historia-de-marca-exitosa)
 65. [Taller: escribir un microrrelato en 3 actos](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/17020e84-9c8d-482f-b6b9-aea0cd907f06/eaa941f6-2711-483b-970c-37f690f0161c/taller-escribir-un-microrrelato-en-3-actos)
+66. [Convertir una historia de ventas en una historia de cliente](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/17020e84-9c8d-482f-b6b9-aea0cd907f06/e27186e6-6c37-420e-b863-a619f5f0ddfb/convertir-una-historia-de-ventas-en-una-historia-de-cliente)
 

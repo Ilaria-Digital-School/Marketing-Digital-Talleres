@@ -1,0 +1,2 @@
+<?php
+// Convertir una historia de ventas en una historia de cliente
