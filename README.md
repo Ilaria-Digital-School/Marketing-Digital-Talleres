@@ -72,3 +72,4 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [64. Desentrañando una historia de marca exitosa](64-desentra-ando-una-historia-de-marca-exitosa/)
 - [65. Taller: escribir un microrrelato en 3 actos](65-taller-escribir-un-microrrelato-en-3-actos/)
 - [66. Convertir una historia de ventas en una historia de cliente](66-convertir-una-historia-de-ventas-en-una-historia-de-cliente/)
+- [67. Ejercicio creativo: encontrar el conflicto relevante para tu audiencia](67-ejercicio-creativo-encontrar-el-conflicto-relevante-para-tu-audiencia/)
