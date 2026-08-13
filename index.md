@@ -79,4 +79,5 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 65. [Taller: escribir un microrrelato en 3 actos](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/17020e84-9c8d-482f-b6b9-aea0cd907f06/eaa941f6-2711-483b-970c-37f690f0161c/taller-escribir-un-microrrelato-en-3-actos)
 66. [Convertir una historia de ventas en una historia de cliente](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/17020e84-9c8d-482f-b6b9-aea0cd907f06/e27186e6-6c37-420e-b863-a619f5f0ddfb/convertir-una-historia-de-ventas-en-una-historia-de-cliente)
 67. [Ejercicio creativo: encontrar el conflicto relevante para tu audiencia](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/17020e84-9c8d-482f-b6b9-aea0cd907f06/036a1d5b-7317-4c08-9477-a22f7a9f8f14/ejercicio-creativo-encontrar-el-conflicto-relevante-para-tu-audiencia)
+68. [Crea un primer calendario mensual en una hoja de cálculo](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/17020e84-9c8d-482f-b6b9-aea0cd907f06/5975511b-16d4-4460-92c9-f020cd261cea/crea-un-primer-calendario-mensual-en-una-hoja-de-calculo)
 

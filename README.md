@@ -73,3 +73,4 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [65. Taller: escribir un microrrelato en 3 actos](65-taller-escribir-un-microrrelato-en-3-actos/)
 - [66. Convertir una historia de ventas en una historia de cliente](66-convertir-una-historia-de-ventas-en-una-historia-de-cliente/)
 - [67. Ejercicio creativo: encontrar el conflicto relevante para tu audiencia](67-ejercicio-creativo-encontrar-el-conflicto-relevante-para-tu-audiencia/)
+- [68. Crea un primer calendario mensual en una hoja de cálculo](68-crea-un-primer-calendario-mensual-en-una-hoja-de-c-lculo/)
