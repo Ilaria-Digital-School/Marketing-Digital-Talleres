@@ -75,3 +75,4 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [67. Ejercicio creativo: encontrar el conflicto relevante para tu audiencia](67-ejercicio-creativo-encontrar-el-conflicto-relevante-para-tu-audiencia/)
 - [68. Crea un primer calendario mensual en una hoja de cálculo](68-crea-un-primer-calendario-mensual-en-una-hoja-de-c-lculo/)
 - [69. Elige el formato adaptado a cada etapa del viaje](69-elige-el-formato-adaptado-a-cada-etapa-del-viaje/)
+- [70. Reequilibrar un calendario sobrecargado](70-reequilibrar-un-calendario-sobrecargado/)
