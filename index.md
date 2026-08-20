@@ -82,4 +82,5 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 68. [Crea un primer calendario mensual en una hoja de cálculo](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/17020e84-9c8d-482f-b6b9-aea0cd907f06/5975511b-16d4-4460-92c9-f020cd261cea/crea-un-primer-calendario-mensual-en-una-hoja-de-calculo)
 69. [Elige el formato adaptado a cada etapa del viaje](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/17020e84-9c8d-482f-b6b9-aea0cd907f06/0db7e418-7701-40ab-a366-6dbf5cb311c2/elige-el-formato-adaptado-a-cada-etapa-del-viaje)
 70. [Reequilibrar un calendario sobrecargado](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/17020e84-9c8d-482f-b6b9-aea0cd907f06/ab464f49-9dfb-46e2-bfdd-21c01cfe77b4/reequilibrar-un-calendario-sobrecargado)
+71. [Ejercicio: define la voz de tu marca en 3 adjetivos](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/17020e84-9c8d-482f-b6b9-aea0cd907f06/59d63336-db03-40d0-9cb5-2f3f472255b2/ejercicio-define-la-voz-de-tu-marca-en-3-adjetivos)
 
