@@ -77,3 +77,4 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [69. Elige el formato adaptado a cada etapa del viaje](69-elige-el-formato-adaptado-a-cada-etapa-del-viaje/)
 - [70. Reequilibrar un calendario sobrecargado](70-reequilibrar-un-calendario-sobrecargado/)
 - [71. Ejercicio: define la voz de tu marca en 3 adjetivos](71-ejercicio-define-la-voz-de-tu-marca-en-3-adjetivos/)
+- [72. Mini-caso: auditar un calendario y proponer mejoras](72-mini-caso-auditar-un-calendario-y-proponer-mejoras/)

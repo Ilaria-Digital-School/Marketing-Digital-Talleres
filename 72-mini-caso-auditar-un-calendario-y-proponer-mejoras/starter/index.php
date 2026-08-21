@@ -1,0 +1,2 @@
+<?php
+// Mini-caso: auditar un calendario y proponer mejoras
