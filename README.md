@@ -78,3 +78,4 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [70. Reequilibrar un calendario sobrecargado](70-reequilibrar-un-calendario-sobrecargado/)
 - [71. Ejercicio: define la voz de tu marca en 3 adjetivos](71-ejercicio-define-la-voz-de-tu-marca-en-3-adjetivos/)
 - [72. Mini-caso: auditar un calendario y proponer mejoras](72-mini-caso-auditar-un-calendario-y-proponer-mejoras/)
+- [73. Asocie los KPI a cada objetivo y formato](73-asocie-los-kpi-a-cada-objetivo-y-formato/)
