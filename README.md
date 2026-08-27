@@ -80,3 +80,5 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [72. Mini-caso: auditar un calendario y proponer mejoras](72-mini-caso-auditar-un-calendario-y-proponer-mejoras/)
 - [73. Asocie los KPI a cada objetivo y formato](73-asocie-los-kpi-a-cada-objetivo-y-formato/)
 - [74. Defina un escenario de crianza simple basado en el contenido](74-defina-un-escenario-de-crianza-simple-basado-en-el-contenido/)
+- [75. Sprint 2: Diseña un plan integral de contenido narrativo](75-sprint-2-dise-a-un-plan-integral-de-contenido-narrativo/)
+- [76. Revisión por pares: comentarios cruzados sobre los planes de contenido](76-revisi-n-por-pares-comentarios-cruzados-sobre-los-planes-de-contenido/)
