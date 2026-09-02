@@ -89,4 +89,5 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 75. [Sprint 2: Diseña un plan integral de contenido narrativo](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/17020e84-9c8d-482f-b6b9-aea0cd907f06/2b720285-007e-4d7b-b31a-f336191160d8/sprint-2-disena-un-plan-integral-de-contenido-narrativo)
 76. [Revisión por pares: comentarios cruzados sobre los planes de contenido](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/17020e84-9c8d-482f-b6b9-aea0cd907f06/086684dc-2e3c-49c7-9028-f41efe4696db/revision-por-pares-comentarios-cruzados-sobre-los-planes-de-contenido)
 77. [Capstone: Presentación y argumentos de su estrategia de marketing de contenidos](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/17020e84-9c8d-482f-b6b9-aea0cd907f06/7d10276f-87e5-4be2-bf5a-02e1ba3c3cb8/capstone-presentacion-y-argumentos-de-su-estrategia-de-marketing-de-contenidos)
+78. [Taller: observa el gateo con Screaming Frog](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/71ce28a3-f774-4abf-80c3-4a8049d81b8f/9eb93e56-292a-481b-83b7-b3348f7e99e7/taller-observa-el-gateo-con-screaming-frog)
 

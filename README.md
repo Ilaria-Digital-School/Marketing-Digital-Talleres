@@ -83,3 +83,4 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [75. Sprint 2: Diseña un plan integral de contenido narrativo](75-sprint-2-dise-a-un-plan-integral-de-contenido-narrativo/)
 - [76. Revisión por pares: comentarios cruzados sobre los planes de contenido](76-revisi-n-por-pares-comentarios-cruzados-sobre-los-planes-de-contenido/)
 - [77. Capstone: Presentación y argumentos de su estrategia de marketing de contenidos](77-capstone-presentaci-n-y-argumentos-de-su-estrategia-de-marketing-de-contenidos/)
+- [78. Taller: observa el gateo con Screaming Frog](78-taller-observa-el-gateo-con-screaming-frog/)
