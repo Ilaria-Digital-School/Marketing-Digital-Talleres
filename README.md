@@ -84,3 +84,4 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [76. Revisión por pares: comentarios cruzados sobre los planes de contenido](76-revisi-n-por-pares-comentarios-cruzados-sobre-los-planes-de-contenido/)
 - [77. Capstone: Presentación y argumentos de su estrategia de marketing de contenidos](77-capstone-presentaci-n-y-argumentos-de-su-estrategia-de-marketing-de-contenidos/)
 - [78. Taller: observa el gateo con Screaming Frog](78-taller-observa-el-gateo-con-screaming-frog/)
+- [79. Taller: identificación de los elementos clave de un SERP](79-taller-identificaci-n-de-los-elementos-clave-de-un-serp/)
