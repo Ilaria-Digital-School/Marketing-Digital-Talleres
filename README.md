@@ -85,3 +85,4 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [77. Capstone: Presentación y argumentos de su estrategia de marketing de contenidos](77-capstone-presentaci-n-y-argumentos-de-su-estrategia-de-marketing-de-contenidos/)
 - [78. Taller: observa el gateo con Screaming Frog](78-taller-observa-el-gateo-con-screaming-frog/)
 - [79. Taller: identificación de los elementos clave de un SERP](79-taller-identificaci-n-de-los-elementos-clave-de-un-serp/)
+- [80. Taller: clasifica 5 páginas ficticias según su relevancia](80-taller-clasifica-5-p-ginas-ficticias-seg-n-su-relevancia/)

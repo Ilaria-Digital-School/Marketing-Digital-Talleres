@@ -91,4 +91,5 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 77. [Capstone: Presentación y argumentos de su estrategia de marketing de contenidos](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/17020e84-9c8d-482f-b6b9-aea0cd907f06/7d10276f-87e5-4be2-bf5a-02e1ba3c3cb8/capstone-presentacion-y-argumentos-de-su-estrategia-de-marketing-de-contenidos)
 78. [Taller: observa el gateo con Screaming Frog](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/71ce28a3-f774-4abf-80c3-4a8049d81b8f/9eb93e56-292a-481b-83b7-b3348f7e99e7/taller-observa-el-gateo-con-screaming-frog)
 79. [Taller: identificación de los elementos clave de un SERP](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/71ce28a3-f774-4abf-80c3-4a8049d81b8f/2d892fa2-e994-4705-a15b-c94f95b677b3/taller-identificacion-de-los-elementos-clave-de-un-serp)
+80. [Taller: clasifica 5 páginas ficticias según su relevancia](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/71ce28a3-f774-4abf-80c3-4a8049d81b8f/285d7bf8-b62b-4d49-86fd-0eadb41f9780/taller-clasifica-5-paginas-ficticias-segun-su-relevancia)
 
