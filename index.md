@@ -92,4 +92,5 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 78. [Taller: observa el gateo con Screaming Frog](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/71ce28a3-f774-4abf-80c3-4a8049d81b8f/9eb93e56-292a-481b-83b7-b3348f7e99e7/taller-observa-el-gateo-con-screaming-frog)
 79. [Taller: identificación de los elementos clave de un SERP](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/71ce28a3-f774-4abf-80c3-4a8049d81b8f/2d892fa2-e994-4705-a15b-c94f95b677b3/taller-identificacion-de-los-elementos-clave-de-un-serp)
 80. [Taller: clasifica 5 páginas ficticias según su relevancia](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/71ce28a3-f774-4abf-80c3-4a8049d81b8f/285d7bf8-b62b-4d49-86fd-0eadb41f9780/taller-clasifica-5-paginas-ficticias-segun-su-relevancia)
+81. [Taller: manipulación de robots.txt y del mapa del sitio en un sandbox](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/71ce28a3-f774-4abf-80c3-4a8049d81b8f/2701b926-c764-41d7-9ac0-276daddcb6d3/taller-manipulacion-de-robots-txt-y-del-mapa-del-sitio-en-un-sandbox)
 
