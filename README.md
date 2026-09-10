@@ -88,3 +88,4 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [80. Taller: clasifica 5 páginas ficticias según su relevancia](80-taller-clasifica-5-p-ginas-ficticias-seg-n-su-relevancia/)
 - [81. Taller: manipulación de robots.txt y del mapa del sitio en un sandbox](81-taller-manipulaci-n-de-robots-txt-y-del-mapa-del-sitio-en-un-sandbox/)
 - [82. Taller: intercambio de ideas sobre palabras clave con Google Suggest](82-taller-intercambio-de-ideas-sobre-palabras-clave-con-google-suggest/)
+- [83. Taller: uso de Ubersuggest para analizar las métricas de palabras clave](83-taller-uso-de-ubersuggest-para-analizar-las-m-tricas-de-palabras-clave/)
