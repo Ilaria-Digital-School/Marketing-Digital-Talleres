@@ -89,3 +89,4 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [81. Taller: manipulación de robots.txt y del mapa del sitio en un sandbox](81-taller-manipulaci-n-de-robots-txt-y-del-mapa-del-sitio-en-un-sandbox/)
 - [82. Taller: intercambio de ideas sobre palabras clave con Google Suggest](82-taller-intercambio-de-ideas-sobre-palabras-clave-con-google-suggest/)
 - [83. Taller: uso de Ubersuggest para analizar las métricas de palabras clave](83-taller-uso-de-ubersuggest-para-analizar-las-m-tricas-de-palabras-clave/)
+- [84. Taller: agrupar palabras clave por intención](84-taller-agrupar-palabras-clave-por-intenci-n/)
