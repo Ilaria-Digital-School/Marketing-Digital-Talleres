@@ -96,4 +96,5 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 82. [Taller: intercambio de ideas sobre palabras clave con Google Suggest](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/71ce28a3-f774-4abf-80c3-4a8049d81b8f/21be746d-291a-48f6-8310-04289803a172/taller-intercambio-de-ideas-sobre-palabras-clave-con-google-suggest)
 83. [Taller: uso de Ubersuggest para analizar las métricas de palabras clave](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/71ce28a3-f774-4abf-80c3-4a8049d81b8f/c60c6f68-48e4-4491-b6ed-145cfd87e83a/taller-uso-de-ubersuggest-para-analizar-las-metricas-de-palabras-clave)
 84. [Taller: agrupar palabras clave por intención](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/71ce28a3-f774-4abf-80c3-4a8049d81b8f/b6267ab5-5201-416f-9444-54384c678762/taller-agrupar-palabras-clave-por-intencion)
+85. [Taller: construcción de una matriz de priorización](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/71ce28a3-f774-4abf-80c3-4a8049d81b8f/a3d12a73-855b-4345-9118-43b26f232bdd/taller-construccion-de-una-matriz-de-priorizacion)
 
