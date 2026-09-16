@@ -91,3 +91,5 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [83. Taller: uso de Ubersuggest para analizar las métricas de palabras clave](83-taller-uso-de-ubersuggest-para-analizar-las-m-tricas-de-palabras-clave/)
 - [84. Taller: agrupar palabras clave por intención](84-taller-agrupar-palabras-clave-por-intenci-n/)
 - [85. Taller: construcción de una matriz de priorización](85-taller-construcci-n-de-una-matriz-de-priorizaci-n/)
+- [86. Miniproyecto: escribe el resumen completo de palabras clave para un sitio ficticio](86-miniproyecto-escribe-el-resumen-completo-de-palabras-clave-para-un-sitio-ficticio/)
+- [87. Taller: reescribir un título y una meta descripción](87-taller-reescribir-un-t-tulo-y-una-meta-descripci-n/)
