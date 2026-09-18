@@ -93,3 +93,4 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [85. Taller: construcción de una matriz de priorización](85-taller-construcci-n-de-una-matriz-de-priorizaci-n/)
 - [86. Miniproyecto: escribe el resumen completo de palabras clave para un sitio ficticio](86-miniproyecto-escribe-el-resumen-completo-de-palabras-clave-para-un-sitio-ficticio/)
 - [87. Taller: reescribir un título y una meta descripción](87-taller-reescribir-un-t-tulo-y-una-meta-descripci-n/)
+- [88. Taller: estructuración de un artículo con H1-H3](88-taller-estructuraci-n-de-un-art-culo-con-h1-h3/)

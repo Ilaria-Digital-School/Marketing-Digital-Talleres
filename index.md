@@ -99,4 +99,5 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 85. [Taller: construcción de una matriz de priorización](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/71ce28a3-f774-4abf-80c3-4a8049d81b8f/a3d12a73-855b-4345-9118-43b26f232bdd/taller-construccion-de-una-matriz-de-priorizacion)
 86. [Miniproyecto: escribe el resumen completo de palabras clave para un sitio ficticio](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/71ce28a3-f774-4abf-80c3-4a8049d81b8f/5f3bac86-29ae-48e9-8c9a-9108d92053ff/miniproyecto-escribe-el-resumen-completo-de-palabras-clave-para-un-sitio-ficticio)
 87. [Taller: reescribir un título y una meta descripción](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/71ce28a3-f774-4abf-80c3-4a8049d81b8f/155ccf67-1804-4a07-af22-af53f51796e9/taller-reescribir-un-titulo-y-una-meta-descripcion)
+88. [Taller: estructuración de un artículo con H1-H3](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/71ce28a3-f774-4abf-80c3-4a8049d81b8f/4b0fff89-1487-400f-a633-81972187f736/taller-estructuracion-de-un-articulo-con-h1-h3)
 
