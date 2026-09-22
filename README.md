@@ -95,3 +95,4 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [87. Taller: reescribir un título y una meta descripción](87-taller-reescribir-un-t-tulo-y-una-meta-descripci-n/)
 - [88. Taller: estructuración de un artículo con H1-H3](88-taller-estructuraci-n-de-un-art-culo-con-h1-h3/)
 - [89. Taller: auditoría rápida del contenido existente](89-taller-auditor-a-r-pida-del-contenido-existente/)
+- [90. Taller: optimización de los enlaces internos de un minisitio](90-taller-optimizaci-n-de-los-enlaces-internos-de-un-minisitio/)

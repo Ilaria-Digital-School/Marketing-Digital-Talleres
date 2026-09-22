@@ -101,4 +101,5 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 87. [Taller: reescribir un título y una meta descripción](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/71ce28a3-f774-4abf-80c3-4a8049d81b8f/155ccf67-1804-4a07-af22-af53f51796e9/taller-reescribir-un-titulo-y-una-meta-descripcion)
 88. [Taller: estructuración de un artículo con H1-H3](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/71ce28a3-f774-4abf-80c3-4a8049d81b8f/4b0fff89-1487-400f-a633-81972187f736/taller-estructuracion-de-un-articulo-con-h1-h3)
 89. [Taller: auditoría rápida del contenido existente](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/71ce28a3-f774-4abf-80c3-4a8049d81b8f/e839c112-a6d0-4510-9555-95d33573e3da/taller-auditoria-rapida-del-contenido-existente)
+90. [Taller: optimización de los enlaces internos de un minisitio](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/71ce28a3-f774-4abf-80c3-4a8049d81b8f/db54ade9-34a9-4f66-a779-8dabbac1cd74/taller-optimizacion-de-los-enlaces-internos-de-un-minisitio)
 
