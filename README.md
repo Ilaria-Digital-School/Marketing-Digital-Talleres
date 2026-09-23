@@ -96,3 +96,4 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [88. Taller: estructuración de un artículo con H1-H3](88-taller-estructuraci-n-de-un-art-culo-con-h1-h3/)
 - [89. Taller: auditoría rápida del contenido existente](89-taller-auditor-a-r-pida-del-contenido-existente/)
 - [90. Taller: optimización de los enlaces internos de un minisitio](90-taller-optimizaci-n-de-los-enlaces-internos-de-un-minisitio/)
+- [91. Taller: probar la velocidad con PageSpeed Insights](91-taller-probar-la-velocidad-con-pagespeed-insights/)
