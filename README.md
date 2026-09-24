@@ -97,3 +97,5 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 - [89. Taller: auditoría rápida del contenido existente](89-taller-auditor-a-r-pida-del-contenido-existente/)
 - [90. Taller: optimización de los enlaces internos de un minisitio](90-taller-optimizaci-n-de-los-enlaces-internos-de-un-minisitio/)
 - [91. Taller: probar la velocidad con PageSpeed Insights](91-taller-probar-la-velocidad-con-pagespeed-insights/)
+- [92. Taller: dibujo de una estructura de árbol optimizada](92-taller-dibujo-de-una-estructura-de-rbol-optimizada/)
+- [93. Taller: corregir un plan de redirección](93-taller-corregir-un-plan-de-redirecci-n/)

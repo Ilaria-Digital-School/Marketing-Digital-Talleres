@@ -103,4 +103,6 @@ Adquiere un dominio completo del marketing digital para desarrollar estrategias.
 89. [Taller: auditoría rápida del contenido existente](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/71ce28a3-f774-4abf-80c3-4a8049d81b8f/e839c112-a6d0-4510-9555-95d33573e3da/taller-auditoria-rapida-del-contenido-existente)
 90. [Taller: optimización de los enlaces internos de un minisitio](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/71ce28a3-f774-4abf-80c3-4a8049d81b8f/db54ade9-34a9-4f66-a779-8dabbac1cd74/taller-optimizacion-de-los-enlaces-internos-de-un-minisitio)
 91. [Taller: probar la velocidad con PageSpeed Insights](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/71ce28a3-f774-4abf-80c3-4a8049d81b8f/08ecdfec-c23f-45ea-a221-754a1f48bcd7/taller-probar-la-velocidad-con-pagespeed-insights)
+92. [Taller: dibujo de una estructura de árbol optimizada](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/71ce28a3-f774-4abf-80c3-4a8049d81b8f/521474ac-b4ee-4fb9-b060-646a403087f2/taller-dibujo-de-una-estructura-de-arbol-optimizada)
+93. [Taller: corregir un plan de redirección](https://www.ilaria-academy.com/nextjob/digital-marketing-expert/es/71ce28a3-f774-4abf-80c3-4a8049d81b8f/f48b984a-fc6c-47c6-9c60-0228130adcac/taller-corregir-un-plan-de-redireccion)
 
