@@ -1,2 +1,0 @@
-<?php
-// Taller: observa el gateo con Screaming Frog

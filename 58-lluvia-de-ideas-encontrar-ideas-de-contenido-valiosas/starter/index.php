@@ -1,2 +1,0 @@
-<?php
-// Lluvia de ideas : encontrar ideas de contenido valiosas

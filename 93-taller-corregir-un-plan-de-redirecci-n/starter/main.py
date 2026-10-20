@@ -1,1 +1,0 @@
-# Taller: corregir un plan de redirección

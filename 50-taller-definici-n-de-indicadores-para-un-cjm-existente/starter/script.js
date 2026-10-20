@@ -1,1 +1,0 @@
-// Taller: definición de indicadores para un CJM existente

@@ -1,2 +1,0 @@
-<?php
-// Taller: combinación de objetivos y canales de marketing

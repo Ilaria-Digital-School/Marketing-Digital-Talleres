@@ -1,2 +1,0 @@
-<?php
-// Taller: uso de Ubersuggest para analizar las métricas de palabras clave

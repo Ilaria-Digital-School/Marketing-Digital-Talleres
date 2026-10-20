@@ -1,2 +1,0 @@
-<?php
-// Taller: enriquecer un curso con datos de comportamiento

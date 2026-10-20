@@ -1,2 +1,0 @@
-<?php
-// Ejercicio: define la voz de tu marca en 3 adjetivos

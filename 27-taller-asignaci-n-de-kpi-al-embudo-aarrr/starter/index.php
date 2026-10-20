@@ -1,2 +1,0 @@
-<?php
-// Taller: Asignación de KPI al embudo AARRR

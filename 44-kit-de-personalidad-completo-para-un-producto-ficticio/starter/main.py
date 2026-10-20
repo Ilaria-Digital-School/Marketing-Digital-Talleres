@@ -1,1 +1,0 @@
-# Kit de personalidad completo para un producto ficticio

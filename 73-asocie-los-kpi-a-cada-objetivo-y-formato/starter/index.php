@@ -1,2 +1,0 @@
-<?php
-// Asocie los KPI a cada objetivo y formato

@@ -1,2 +1,0 @@
-<?php
-// Taller: combinación de segmento y persona (minicase)

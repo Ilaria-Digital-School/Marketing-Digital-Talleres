@@ -1,1 +1,0 @@
-# Miniproyecto: diseño de un plan de campaña de correo electrónico sencillo

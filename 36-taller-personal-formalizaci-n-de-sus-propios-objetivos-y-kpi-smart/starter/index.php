@@ -1,2 +1,0 @@
-<?php
-// Taller personal: Formalización de sus propios objetivos y KPI SMART

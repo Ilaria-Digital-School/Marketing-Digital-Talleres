@@ -1,2 +1,0 @@
-<?php
-// Taller de listas de verificación: Validación de que un objetivo es totalmente INTELIGENTE
