@@ -1,0 +1,2 @@
+<?php
+// Hilo del proyecto (parte 1): CM completo para 2 personas

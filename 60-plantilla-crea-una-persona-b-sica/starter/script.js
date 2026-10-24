@@ -1,0 +1,1 @@
+// Plantilla : crea una persona básica

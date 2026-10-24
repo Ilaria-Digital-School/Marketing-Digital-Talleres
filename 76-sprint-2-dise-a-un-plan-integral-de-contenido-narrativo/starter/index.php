@@ -1,0 +1,2 @@
+<?php
+// Sprint 2: Diseña un plan integral de contenido narrativo

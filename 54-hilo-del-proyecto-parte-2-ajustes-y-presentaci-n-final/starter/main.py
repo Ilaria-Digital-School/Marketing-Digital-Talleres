@@ -1,0 +1,1 @@
+# Hilo del proyecto (parte 2): ajustes y presentación final
