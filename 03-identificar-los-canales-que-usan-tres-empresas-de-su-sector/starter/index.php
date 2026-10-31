@@ -1,0 +1,2 @@
+<?php
+// Identificar los canales que usan tres empresas de su sector
