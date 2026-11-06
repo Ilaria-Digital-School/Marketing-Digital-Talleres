@@ -1,0 +1,2 @@
+<?php
+// Asociar cada canal de su actividad a una etapa del recorrido
