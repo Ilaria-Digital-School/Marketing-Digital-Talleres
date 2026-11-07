@@ -1,0 +1,2 @@
+<?php
+// Verificar que su actividad responde a las expectativas de los clientes en línea
