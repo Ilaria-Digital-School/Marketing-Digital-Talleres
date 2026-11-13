@@ -1,0 +1,2 @@
+<?php
+// Preparar su espacio de trabajo y abrir su bitácora
