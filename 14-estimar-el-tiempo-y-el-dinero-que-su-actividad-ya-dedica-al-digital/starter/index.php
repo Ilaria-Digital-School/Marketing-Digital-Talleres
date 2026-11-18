@@ -1,0 +1,2 @@
+<?php
+// Estimar el tiempo y el dinero que su actividad ya dedica al digital
