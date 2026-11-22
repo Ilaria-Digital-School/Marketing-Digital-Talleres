@@ -1,0 +1,2 @@
+<?php
+// Estimar el mercado de su actividad a partir de fuentes públicas
