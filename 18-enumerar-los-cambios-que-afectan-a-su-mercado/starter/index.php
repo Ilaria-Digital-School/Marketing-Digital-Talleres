@@ -1,0 +1,2 @@
+<?php
+// Enumerar los cambios que afectan a su mercado
