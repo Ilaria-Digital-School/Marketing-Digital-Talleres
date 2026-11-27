@@ -1,0 +1,1 @@
+# Elaborar el mapa de los competidores de su actividad
